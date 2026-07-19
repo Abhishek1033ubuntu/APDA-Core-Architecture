@@ -19,3 +19,20 @@ $$\frac{dx}{dt} = f_{\text{known}}(x) + \text{NPU}_{\theta}(x)$$
 ## 3. System Architecture Triggers
 * **Exception Trigger (Wake up):** Wakes up the NPU when the system detects a high operational variance/anomaly, automatically scaling the system-decided learning rate up ($\alpha = 0.2$) for rapid real-time stabilization.
 * **Hibernation Trigger (Sleep):** Automatically powers down active learning subroutines once mathematical convergence is achieved, saving critical battery power and shifting tracking tasks entirely back onto the optimized calculus algorithms.
+
+# Important Notice
+
+This repository contains code published for demonstration and testing purposes only. 
+The underlying intellectual property (IP) — including inventions, processes, methods, 
+algorithms, and research results — is proprietary and protected under Indian law and 
+international treaties (Berne Convention, Paris Convention, TRIPS Agreement).
+
+By accessing this repository, you agree:
+- The code may be viewed and studied for non-commercial, educational, or research use only.
+- Any reproduction, modification, distribution, or commercialization of the IP is strictly prohibited.
+- Enforcement of rights will be pursued under Indian jurisdiction and applicable international treaties.
+
+For licensing inquiries or commercial permissions, please contact:
+Abhishek Singh  | UIDAI: 9414 9122 9013
+Email: abhishek1033@gmail.com | abhishek.s@live.in
+Location: Madhya Pradesh, India
