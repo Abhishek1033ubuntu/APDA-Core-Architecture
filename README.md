@@ -1,6 +1,8 @@
 # Autonomous Physics-Discovery Interface Adapter (APDA)
 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21538723.svg)](https://doi.org/10.5281/zenodo.21538723) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 ---
 **Classification:** Advanced Scientific Machine Learning (SciML) & Low-Data Edge Engineering  
 **System Status:** Architecture Validated via Simulation (Phase 1 & Phase 2 Proof-of-Concept)
